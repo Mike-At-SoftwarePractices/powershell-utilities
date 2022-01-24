@@ -1,5 +1,7 @@
 # powershell-utilities
-A repository for various things to make PowerShell more useable to me
+A repository for various things to make PowerShell more useable to me.  
+
+If you have utility functions you find useful you can have them loaded in powershell everytime you run by following the instructions [here](https://msftplayground.com/2014/01/load-modules-by-default-when-openening-powershell/)
 
 ## utilities.ps1
 A set of functions to give me shortcuts that mirror some of the unit and linux workflows that so many of us are familiar with
